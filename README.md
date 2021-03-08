@@ -14,3 +14,4 @@ Step 6: I organized the CSS selectors and properties to follow the semantic stru
 
 Step 7: I added notes to the CSS file so the next person can understand what section of the HTML the styles apply to. 
 
+![_C__Users_emily_Documents_Bootcamp_Week-1_Homework_week-1-homework_index html](https://user-images.githubusercontent.com/79679121/110260469-6b6d6080-7f7a-11eb-91a0-13d9b0167574.png)
